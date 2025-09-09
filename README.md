@@ -6,7 +6,7 @@ SL-LoS-Mock (Will keep updating.....)
 This repository contains the supporting code for XXXXXXXX.  
 There are **five main folders**. To run the code, you first need the **Elucid simulation data**, available at [https://www.elucid-project.com](https://www.elucid-project.com).  
 
-The ray-tracing part was developed by **Chengliang (XXXXXXXXXXXX)**.
+The ray-tracing part was developed by **Chengliang Wei**.
 
 ---
 
@@ -24,7 +24,7 @@ gcc -lm main.c
   The full light cone includes the dark matter particles.  
 
 - For higher precision, Chengliang split the **N-body 500 Mpc box** into **100 Mpc subboxes** (in this demo).  
-  To access these subbox data files, please contact **XXXXXXXX** or **XXXXXXXXX** for collaboration.
+  To access these subbox data files, please contact **linsj999@outlook.com** for collaboration.
 
 #### 2. lc2lensplane
 The `lc2lensplane` folder is used to read the simu2lc output file and generate the mass density for each lens plane.
