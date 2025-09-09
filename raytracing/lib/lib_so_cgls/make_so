@@ -1,0 +1,3 @@
+gcc-13 -Wall -O2 -c -fPIC ./fft_convolve.c ./lensing_funcs.c -lfftw3  -lm -I/opt/homebrew/include -L/opt/homebrew/lib
+gcc-13 -shared ./fft_convolve.o ./lensing_funcs.o -lfftw3 -lm -o libglsg.so -I/opt/homebrew/include -L/opt/homebrew/lib
+rm *.o

@@ -1,0 +1,2 @@
+gcc-13 -Wall -Ofast -fopenmp -fPIC -c rtf.c
+gcc-13 -shared -fopenmp rtf.o -o ./librtf.so
