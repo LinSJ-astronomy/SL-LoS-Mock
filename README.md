@@ -1,9 +1,9 @@
 SL-LoS-Mock (Will keep updating.....)
 =======
 
-### Here is the supporting code for XXXXXXXX.
+### Here is the supporting code for arxiv: 2509.26382.
 
-This repository contains the supporting code for XXXXXXXX.  
+This repository contains the supporting code for arxiv: 2509.26382.  
 There are **five main folders**. To run the code, you first need the **Elucid simulation data**, available at [https://www.elucid-project.com](https://www.elucid-project.com).  
 
 The ray-tracing part was developed by **Chengliang Wei**.
